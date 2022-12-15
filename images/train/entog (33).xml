@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Entog</folder>
+	<filename> entog (33).jpg</filename>
+	<path>F:\data-image_processing\Data_entog\image-resize-to-imglabel\Entog\ entog (33).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Entog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>116</ymin>
+			<xmax>234</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Entog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>70</ymin>
+			<xmax>452</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

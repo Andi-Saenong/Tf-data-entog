@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kawin</folder>
+	<filename> kawin (9).jpg</filename>
+	<path>F:\data-image_processing\Data_entog\image-resize-to-imglabel\Kawin\ kawin (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kawin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>245</ymin>
+			<xmax>336</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
